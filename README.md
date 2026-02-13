@@ -32,7 +32,7 @@ It also keeps things structured:
 
 ---
 
-## 📦 Installation
+## Installation
 
 Place the `TimerService` module inside `ReplicatedStorage` or `ServerScriptService`, then require it:
 
