@@ -23,7 +23,7 @@ It is designed to run on the **server**.
 
 ---
 
-## Why This Exists
+## Purpose
 
 Using `task.wait(1)` for countdown systems introduces drift and timing inconsistencies.
 
