@@ -2,6 +2,12 @@
 
 A strict-typed, lightweight timer management service for Roblox, built with clean OOP structure and delta-time accuracy.
 
+## ⚠️ Server Usage Only
+
+This module does **not** include internal server/client checks.
+
+It is designed to run on the **server**.
+
 ---
 
 ## Features
